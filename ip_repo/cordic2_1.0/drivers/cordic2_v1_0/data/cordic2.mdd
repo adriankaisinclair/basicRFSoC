@@ -1,0 +1,10 @@
+
+
+OPTION psf_version = 2.1;
+
+BEGIN DRIVER cordic2
+	OPTION supported_peripherals = (cordic2);
+	OPTION copyfiles = all;
+	OPTION VERSION = 1.0;
+	OPTION NAME = cordic2;
+END DRIVER

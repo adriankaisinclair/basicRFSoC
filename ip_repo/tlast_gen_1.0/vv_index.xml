@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Index Version="1" Minor="0">
+	<Repository value="/media/ryan/J_CENA_X64FREV_EN-US_DV5/singleTT_proj_tcl/ip_repo/tlast_gen_1.0">
+	</Repository>
+	<IP>
+		<VLNV value="user.org:user:tlast_gen:1.0">
+		</VLNV>
+		<DisplayName value="tlast_gen_v1.0">
+		</DisplayName>
+		<Description value="generate a tlast signal with counter after number of cycles, variable input bitwidth">
+		</Description>
+		<CoreRevision value="2">
+		</CoreRevision>
+		<ComponentPath value="component.xml">
+		</ComponentPath>
+		<Families>
+			<Family name="zynquplus">
+				<Part status="Pre-Production" name="ALL">
+				</Part>
+			</Family>
+		</Families>
+		<Taxonomies>
+			<Taxonomy value="AXI_Peripheral">
+			</Taxonomy>
+		</Taxonomies>
+		<LockPrevVersions value="false">
+		</LockPrevVersions>
+		<Interfaces>
+			<Interface value="AXI4">
+			</Interface>
+		</Interfaces>
+	</IP>
+</Index>
+
